@@ -1,0 +1,8 @@
+# mlflow phải cùng phiên bản với server (docker/mlflow/Dockerfile)
+mlflow==3.16.1
+scikit-learn>=1.5,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+boto3>=1.35,<2
+requests>=2.32,<3
+python-dotenv>=1.0,<2
